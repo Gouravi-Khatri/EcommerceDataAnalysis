@@ -23,6 +23,24 @@ The project was built with the following goals:
 
 ---
 
+## 📂 Dataset
+
+This project uses the [E-Commerce Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data/data) from Kaggle.
+
+* The dataset is a CSV file containing **e-commerce transactions** with fields like:
+
+  * `InvoiceNo` – Transaction ID
+  * `StockCode` – Product ID
+  * `Description` – Product name
+  * `Quantity` – Units purchased
+  * `InvoiceDate` – Date of purchase
+  * `UnitPrice` – Price per unit
+  * `CustomerID` – Unique customer identifier
+  * `Country` – Customer’s location
+
+This dataset allows analysis of **customer purchase patterns, product demand, and sales revenue**.
+
+---
 ## ⚙️ Tech Stack
 
 * **Python** → Data cleaning, preprocessing, integration with SQL
