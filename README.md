@@ -96,7 +96,7 @@ This project is not just about running SQL queries—it is about showing how **a
 
 ```
 EcommerceDataAnalysis/
-│── data.csv                # Dataset
+│── data.zip                # Dataset
 │── SQL.ipynb               # Main Jupyter Notebook (SQL + Python analysis)
 │── README.md               # Project documentation (this file)
 ```
