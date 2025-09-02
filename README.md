@@ -4,7 +4,7 @@
 
 In today’s digital world, e-commerce generates massive volumes of transactional data every second. Analyzing this data is essential to uncover patterns, track customer behavior, and generate business insights that drive growth.
 
-This project focuses on **end-to-end e-commerce data analysis** using **PostgreSQL (NeonDB)** for database operations and **Python (Google Colab)** for integration, cleaning, and visualization. The dataset used is `data.csv`, which contains detailed transaction-level information such as product IDs, quantities, prices, and customer records.
+This project focuses on **end-to-end e-commerce data analysis** using **PostgreSQL (NeonDB)** for database operations and **Python (Google Colab)** for integration, cleaning, and visualization. 
 
 By combining **SQL for structured queries** and **Python for data handling**, this project highlights how data can be turned into **actionable business intelligence**.
 
